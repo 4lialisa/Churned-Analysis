@@ -12,7 +12,7 @@ This project was developed as part of the **Data Wrangling and Visualisation (TD
 | No | Student ID | Name 
 |----|------|-------------
 | 1 | 1221301131 | MUHAMMAD ARIFF RIDZLAN BIN MOHD FAUDZI
-| 2 | 1211103754 | Noor Alia Alisa binti Kamal
+| 2 | 1211103754 | NOOR ALIA ALISA BINTI KAMAL
 | 3 | 1211109997 | TAN ZHI HENG
 | 4 | 1211110647 | CHONG ZHI TIAN
 
